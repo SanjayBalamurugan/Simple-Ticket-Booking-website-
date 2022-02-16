@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+    background-image: url(../IMAGES/ldon.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#logo {
+    width: 70px;
+    height: 60px;
+    padding-top: 10px;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-larger;
+    padding-left: 80px;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    padding-left: 80px;
+}
+
+.maindiv {
+    background-color: white;
+    border-radius: 20mm;
+    width: 500px;
+    height: 600px;
+    padding: 100px 200px 30px 200px;
+    margin: 100px 50px 50px 250px;
+}
+
+#subbutton {
+    padding-left: 100px;
+    padding-right: 100px;
+}
